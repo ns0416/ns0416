@@ -42,7 +42,7 @@ I'm studying at Kwangwoon University since 2019.
 </div>
 
 # I'm interested in...
-- Artificial Intelligence(Especially Natual Language Processing, Audio Processing like TTS and Voice Recognizer)
+- Artificial Intelligence(Especially Natural Language Processing, Audio Processing like TTS and Voice Recognizer)
 - Digital Signal Processing(Especially Audio Signal, Many-dimensional Signal)
 - Creative, Amazing Idea
 
