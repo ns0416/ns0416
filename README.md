@@ -40,12 +40,26 @@ I'm studying at Kwangwoon University since 2019.
 <img src="https://img.shields.io/badge/Adobe%20Ilustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
 </div>
 
+# I'm interested in...
+- Artificial Intelligence(Especially Natual Language Processing, Audio Processing like TTS and Voice Recognizer)
+- Digital Signal Processing(Especially Audio Signal, Many-dimensional Signal)
+- Creative, Amazing Idea
+
+# I'm looking for...
+- Better ways to filter spam emails
+- Better ways to improve performance of Korean-OCR
+- Better ways to improve performance of Korean-Word2Vec
+
+# Contact
+- [E-mail]
+- ns0416a@gmail.com(for private or academic use)
+- ns0416@kw.ac.kr(for academic use)
+- ns416@namisnt.com(for business use)
+
 <!--
 Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on NAMISNT
-- 🌱 I’m currently learning AI(specially NLP), DSP
-<!--
+- 🌱 I’m currently learning AI(Especially NLP), DSP
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
