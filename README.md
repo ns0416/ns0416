@@ -5,7 +5,7 @@
 **ns0416/ns0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # I'm...
-I'm Nohsan Kim. I work for NAMISNT(IT Total Solutions, SI, vending PC parts or Desktop PC, Laptop. Specially AMD CPU and Lenovo Laptop) since 2018.
+I'm Nohsan Kim. I work for NAMISNT(IT Total Solutions, SI, vending PC parts or Desktop PC, Laptop. Especially AMD CPU and Lenovo Laptop) since 2018.
 I'm studying at Kwangwoon University since 2019.
 
 # I'm able to...
