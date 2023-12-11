@@ -8,6 +8,11 @@
 I'm Nohsan Kim. I work for NAMISNT(IT Total Solutions, SI, vending PC parts or Desktop PC, Laptop. Especially AMD CPU and Lenovo Laptop) since 2018.
 I'm studying at Kwangwoon University since 2019.
 
+<div>
+<img src="https://img.shields.io/badge/AMD-ED1C24?style=flat&logo=AMD&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lenovo-E2231A?style=flat&logo=Lenovo&logoColor=white"/>
+</div>
+
 # I'm able to...
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -15,8 +20,11 @@ I'm studying at Kwangwoon University since 2019.
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-512BD4?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -39,6 +47,7 @@ I'm studying at Kwangwoon University since 2019.
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF?style=flat&logo=adobeaudition&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Ilustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white"/>
 </div>
 
 # I'm interested in...
