@@ -13,7 +13,7 @@ I'm studying at Kwangwoon University since 2019.
 <img src="https://img.shields.io/badge/Lenovo-E2231A?style=flat&logo=Lenovo&logoColor=white"/>
 </div>
 
-# I'm able to...
+# My Tech Stack :)
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -48,17 +48,20 @@ I'm studying at Kwangwoon University since 2019.
 <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF?style=flat&logo=adobeaudition&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Ilustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
 </div>
 
 # I'm interested in...
-- Artificial Intelligence(Especially Natural Language Processing, Audio Processing like TTS and Voice Recognizer)
+- Artificial Intelligence(Especially Image Semantic Segmentation, Audio Processing like TTS, Voice Recognizer And Voice-Conversion)
 - Digital Signal Processing(Especially Audio Signal, Many-dimensional Signal)
 - Creative, Amazing Idea
 
 # I'm looking for...
-- Better ways to filter spam emails
+- Better ways to improve perfermance of Image Semantic Segmentation
+- Better ways to improve inference speed of Image Semantic Segmentation
 - Better ways to improve performance of Korean-OCR
-- Better ways to improve performance of Korean-Word2Vec
 
 # Contact
 - [E-mail]
